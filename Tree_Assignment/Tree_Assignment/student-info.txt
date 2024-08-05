@@ -1,0 +1,456 @@
+
+Name:  John Carson
+ID: 138
+Address:  33 Berkeley St, Malaysia 4653321
+Date of Birth: 19-12-2003
+Phone No: 013-7866
+Course: MD
+CGPA: 3.973
+
+Name:  Julia Roberts
+ID: 125
+Address:  100 Brokovich St, Malaysia 456455
+Date of Birth: 15-08-1965
+Phone No: 456-4321
+Course: IB
+CGPA: 3.23678
+
+Name:  Lauriette Stevenson
+ID: 109
+Address:  78 Kindley St, Malaysia 423462
+Date of Birth: 31-07-2000
+Phone No: 239-4321
+Course: CN
+CGPA: 3.9004
+
+Name:  Steve Alexander Goh 
+ID: 101
+Address:  23 Hennessey St, Malaysia 434664
+Date of Birth: 30-06-1965
+Phone No: 668-2342
+Course: CN
+CGPA: 3.6643
+
+Name:  William Brooke
+ID: 95
+Address:  65 Johnson St, Malaysia 4345654
+Date of Birth: 15-07-1988
+Phone No: 789-2344
+Course: CS
+CGPA: 3.6677
+
+Name:  Tyler Steinkamp
+ID: 88
+Address:  42 Reindeer St, Malaysia 4887965
+Date of Birth: 23-07-1998
+Phone No: 123-5373
+Course: IB
+CGPA: 3.11123
+
+Name:  Jane Lee Nguyen
+ID: 83
+Address:  2 Taman Damansara, Malaysia 3882932
+Date of Birth: 01-11-1999
+Phone No: 182-3324
+Course: CS
+CGPA: 3.4413
+
+Name:  Leeroy Grant
+ID: 75
+Address:  93 Austin Height, Malaysia 213142
+Date of Birth: 23-01-2002
+Phone No: 112-9084
+Course: MBBS
+CGPA: 3.3345
+
+Name:  Martin Junior
+ID: 67
+Address:  52 Tchaikovsky St, Malaysia 244523
+Date of Birth: 10-10-1994
+Phone No: 213-4565
+Course: CS
+CGPA: 3.4357
+
+Name:  Peter Smiths
+ID: 45
+Address:  100 Brokovich St, Malaysia 4433577
+Date of Birth: 14-11-2000
+Phone No: 231-8886
+Course: MBBS
+CGPA: 3.7433
+
+Name:  Matt Damon
+ID: 28
+Address:  465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+Date of Birth: 10-10-1970
+Phone No: 790-3233
+Course: CS
+CGPA: 3.12076
+
+Name:  Stanley Robertson
+ID: 24
+Address:  5 Railmen St, Malaysia 323213
+Date of Birth: 19-04-1989
+Phone No: 677-2321
+Course: CN
+CGPA: 3.7784
+
+Name:  Salma Hayek
+ID: 23
+Address:  45 Mexican Boulevard, Hotel California, Malaysia 467822
+Date of Birth: 06-04-1973
+Phone No: 790-0000
+Course: CS
+CGPA: 3.12076
+
+Name:  Ben Affleck
+ID: 22
+Address:  200 Hunting Street, Malaysia 784563
+Date of Birth: 25-10-1968
+Phone No: 432-4579
+Course: IB
+CGPA: 3.12076
+
+Name:  Zoe Tay
+ID: 21
+Address:  100 Blue Eyed St, Malaysia 456872
+Date of Birth: 15-02-1968
+Phone No: 456-1234
+Course: CS
+CGPA: 3.12076
+
+Name:  Phua Chu Kang
+ID: 19
+Address:  50 PCK Avenue, Malaysia 639798
+Date of Birth: 11-08-1964
+Phone No: 345-6780
+Course: CS
+CGPA: 3.12076
+
+Name:  Kevin Tang Choon Seng
+ID: 15
+Address:  45, Connor St, Malaysia 64564453
+Date of Birth: 15-08-1965
+Phone No: 767-4321
+Course: BBA
+CGPA: 3.8
+
+Name:  Robert Pattinson
+ID: 13
+Address:  23 Railway St, Malaysia 12345
+Date of Birth: 24-08-1987
+Phone No: 231-2324
+Course: BBA
+CGPA: 3.6675
+
+Name:  Lim Peng Kang
+ID: 11
+Address:  187 Stunnington St, Malaysia 35500
+Date of Birth: 11-03-2004
+Phone No: 345-4546
+Course: CN
+CGPA: 3.57
+
+Name:  John Carson
+ID: 138
+Address:  33 Berkeley St, Malaysia 4653321
+Date of Birth: 19-12-2003
+Phone No: 013-7866
+Course: MD
+CGPA: 3.973
+
+Name:  Julia Roberts
+ID: 125
+Address:  100 Brokovich St, Malaysia 456455
+Date of Birth: 15-08-1965
+Phone No: 456-4321
+Course: IB
+CGPA: 3.23678
+
+Name:  Lauriette Stevenson
+ID: 109
+Address:  78 Kindley St, Malaysia 423462
+Date of Birth: 31-07-2000
+Phone No: 239-4321
+Course: CN
+CGPA: 3.9004
+
+Name:  Steve Alexander Goh 
+ID: 101
+Address:  23 Hennessey St, Malaysia 434664
+Date of Birth: 30-06-1965
+Phone No: 668-2342
+Course: CN
+CGPA: 3.6643
+
+Name:  William Brooke
+ID: 95
+Address:  65 Johnson St, Malaysia 4345654
+Date of Birth: 15-07-1988
+Phone No: 789-2344
+Course: CS
+CGPA: 3.6677
+
+Name:  Tyler Steinkamp
+ID: 88
+Address:  42 Reindeer St, Malaysia 4887965
+Date of Birth: 23-07-1998
+Phone No: 123-5373
+Course: IB
+CGPA: 3.11123
+
+Name:  Jane Lee Nguyen
+ID: 83
+Address:  2 Taman Damansara, Malaysia 3882932
+Date of Birth: 01-11-1999
+Phone No: 182-3324
+Course: CS
+CGPA: 3.4413
+
+Name:  Leeroy Grant
+ID: 75
+Address:  93 Austin Height, Malaysia 213142
+Date of Birth: 23-01-2002
+Phone No: 112-9084
+Course: MBBS
+CGPA: 3.3345
+
+Name:  Martin Junior
+ID: 67
+Address:  52 Tchaikovsky St, Malaysia 244523
+Date of Birth: 10-10-1994
+Phone No: 213-4565
+Course: CS
+CGPA: 3.4357
+
+Name:  Peter Smiths
+ID: 45
+Address:  100 Brokovich St, Malaysia 4433577
+Date of Birth: 14-11-2000
+Phone No: 231-8886
+Course: MBBS
+CGPA: 3.7433
+
+Name:  Matt Damon
+ID: 28
+Address:  465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+Date of Birth: 10-10-1970
+Phone No: 790-3233
+Course: CS
+CGPA: 3.12076
+
+Name:  Stanley Robertson
+ID: 24
+Address:  5 Railmen St, Malaysia 323213
+Date of Birth: 19-04-1989
+Phone No: 677-2321
+Course: CN
+CGPA: 3.7784
+
+Name:  Salma Hayek
+ID: 23
+Address:  45 Mexican Boulevard, Hotel California, Malaysia 467822
+Date of Birth: 06-04-1973
+Phone No: 790-0000
+Course: CS
+CGPA: 3.12076
+
+Name:  Ben Affleck
+ID: 22
+Address:  200 Hunting Street, Malaysia 784563
+Date of Birth: 25-10-1968
+Phone No: 432-4579
+Course: IB
+CGPA: 3.12076
+
+Name:  Zoe Tay
+ID: 21
+Address:  100 Blue Eyed St, Malaysia 456872
+Date of Birth: 15-02-1968
+Phone No: 456-1234
+Course: CS
+CGPA: 3.12076
+
+Name:  Phua Chu Kang
+ID: 19
+Address:  50 PCK Avenue, Malaysia 639798
+Date of Birth: 11-08-1964
+Phone No: 345-6780
+Course: CS
+CGPA: 3.12076
+
+Name:  Kevin Tang Choon Seng
+ID: 15
+Address:  45, Connor St, Malaysia 64564453
+Date of Birth: 15-08-1965
+Phone No: 767-4321
+Course: BBA
+CGPA: 3.8
+
+Name:  Robert Pattinson
+ID: 13
+Address:  23 Railway St, Malaysia 12345
+Date of Birth: 24-08-1987
+Phone No: 231-2324
+Course: BBA
+CGPA: 3.6675
+
+Name:  Lim Peng Kang
+ID: 11
+Address:  187 Stunnington St, Malaysia 35500
+Date of Birth: 11-03-2004
+Phone No: 345-4546
+Course: CN
+CGPA: 3.57
+
+Name:  Lim Peng Kang
+ID: 11
+Address:  187 Stunnington St, Malaysia 35500
+Date of Birth: 11-03-2004
+Phone No: 345-4546
+Course: CN
+CGPA: 3.57
+
+Name:  Robert Pattinson
+ID: 13
+Address:  23 Railway St, Malaysia 12345
+Date of Birth: 24-08-1987
+Phone No: 231-2324
+Course: BBA
+CGPA: 3.6675
+
+Name:  Kevin Tang Choon Seng
+ID: 15
+Address:  45, Connor St, Malaysia 64564453
+Date of Birth: 15-08-1965
+Phone No: 767-4321
+Course: BBA
+CGPA: 3.8
+
+Name:  Phua Chu Kang
+ID: 19
+Address:  50 PCK Avenue, Malaysia 639798
+Date of Birth: 11-08-1964
+Phone No: 345-6780
+Course: CS
+CGPA: 3.12076
+
+Name:  Zoe Tay
+ID: 21
+Address:  100 Blue Eyed St, Malaysia 456872
+Date of Birth: 15-02-1968
+Phone No: 456-1234
+Course: CS
+CGPA: 3.12076
+
+Name:  Ben Affleck
+ID: 22
+Address:  200 Hunting Street, Malaysia 784563
+Date of Birth: 25-10-1968
+Phone No: 432-4579
+Course: IB
+CGPA: 3.12076
+
+Name:  Salma Hayek
+ID: 23
+Address:  45 Mexican Boulevard, Hotel California, Malaysia 467822
+Date of Birth: 06-04-1973
+Phone No: 790-0000
+Course: CS
+CGPA: 3.12076
+
+Name:  Stanley Robertson
+ID: 24
+Address:  5 Railmen St, Malaysia 323213
+Date of Birth: 19-04-1989
+Phone No: 677-2321
+Course: CN
+CGPA: 3.7784
+
+Name:  Matt Damon
+ID: 28
+Address:  465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+Date of Birth: 10-10-1970
+Phone No: 790-3233
+Course: CS
+CGPA: 3.12076
+
+Name:  Peter Smiths
+ID: 45
+Address:  100 Brokovich St, Malaysia 4433577
+Date of Birth: 14-11-2000
+Phone No: 231-8886
+Course: MBBS
+CGPA: 3.7433
+
+Name:  Martin Junior
+ID: 67
+Address:  52 Tchaikovsky St, Malaysia 244523
+Date of Birth: 10-10-1994
+Phone No: 213-4565
+Course: CS
+CGPA: 3.4357
+
+Name:  Leeroy Grant
+ID: 75
+Address:  93 Austin Height, Malaysia 213142
+Date of Birth: 23-01-2002
+Phone No: 112-9084
+Course: MBBS
+CGPA: 3.3345
+
+Name:  Jane Lee Nguyen
+ID: 83
+Address:  2 Taman Damansara, Malaysia 3882932
+Date of Birth: 01-11-1999
+Phone No: 182-3324
+Course: CS
+CGPA: 3.4413
+
+Name:  Tyler Steinkamp
+ID: 88
+Address:  42 Reindeer St, Malaysia 4887965
+Date of Birth: 23-07-1998
+Phone No: 123-5373
+Course: IB
+CGPA: 3.11123
+
+Name:  William Brooke
+ID: 95
+Address:  65 Johnson St, Malaysia 4345654
+Date of Birth: 15-07-1988
+Phone No: 789-2344
+Course: CS
+CGPA: 3.6677
+
+Name:  Steve Alexander Goh 
+ID: 101
+Address:  23 Hennessey St, Malaysia 434664
+Date of Birth: 30-06-1965
+Phone No: 668-2342
+Course: CN
+CGPA: 3.6643
+
+Name:  Lauriette Stevenson
+ID: 109
+Address:  78 Kindley St, Malaysia 423462
+Date of Birth: 31-07-2000
+Phone No: 239-4321
+Course: CN
+CGPA: 3.9004
+
+Name:  Julia Roberts
+ID: 125
+Address:  100 Brokovich St, Malaysia 456455
+Date of Birth: 15-08-1965
+Phone No: 456-4321
+Course: IB
+CGPA: 3.23678
+
+Name:  John Carson
+ID: 138
+Address:  33 Berkeley St, Malaysia 4653321
+Date of Birth: 19-12-2003
+Phone No: 013-7866
+Course: MD
+CGPA: 3.973

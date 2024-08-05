@@ -1,0 +1,151 @@
+Student Id = 28
+Name = Matt Damon
+Address = 465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+DOB = 10-10-1970
+Phone Number = 790-3233
+Course = CS
+CGPA = 3.12076
+
+Student Id = 22
+Name = Ben Affleck
+Address = 200 Hunting Street, Malaysia 784563
+DOB = 25-10-1968
+Phone Number = 432-4579
+Course = IB
+CGPA = 3.12076
+
+Student Id = 23
+Name = Salma Hayek
+Address = 45 Mexican Boulevard, Hotel California, Malaysia 467822
+DOB = 06-04-1973
+Phone Number = 790-0000
+Course = CS
+CGPA = 3.12076
+
+Student Id = 19
+Name = Phua Chu Kang
+Address = 50 PCK Avenue, Malaysia 639798
+DOB = 11-08-1964
+Phone Number = 345-6780
+Course = CS
+CGPA = 3.12076
+
+Student Id = 21
+Name = Zoe Tay
+Address = 100 Blue Eyed St, Malaysia 456872
+DOB = 15-02-1968
+Phone Number = 456-1234
+Course = CS
+CGPA = 3.12076
+
+Student Id = 125
+Name = Julia Roberts
+Address = 100 Brokovich St, Malaysia 456455
+DOB = 15-08-1965
+Phone Number = 456-4321
+Course = IB
+CGPA = 3.23678
+
+Student Id = 138
+Name = John Carson
+Address = 33 Berkeley St, Malaysia 4653321
+DOB = 19-12-2003
+Phone Number = 013-7866
+Course = MD
+CGPA = 3.973
+
+Student Id = 75
+Name = Leeroy Grant
+Address = 93 Austin Height, Malaysia 213142
+DOB = 23-01-2002
+Phone Number = 112-9084
+Course = MBBS
+CGPA = 3.3345
+
+Student Id = 83
+Name = Jane Lee Nguyen
+Address = 2 Taman Damansara, Malaysia 3882932
+DOB = 01-11-1999
+Phone Number = 182-3324
+Course = CS
+CGPA = 3.4413
+
+Student Id = 13
+Name = Robert Pattinson
+Address = 23 Railway St, Malaysia 12345
+DOB = 24-08-1987
+Phone Number = 231-2324
+Course = BBA
+CGPA = 3.6675
+
+Student Id = 15
+Name = Kevin Tang Choon Seng
+Address = 45, Connor St, Malaysia 64564453
+DOB = 15-08-1965
+Phone Number = 767-4321
+Course = BBA
+CGPA = 3.8
+
+Student Id = 45
+Name = Peter Smiths
+Address = 100 Brokovich St, Malaysia 4433577
+DOB = 14-11-2000
+Phone Number = 231-8886
+Course = MBBS
+CGPA = 3.7433
+
+Student Id = 88
+Name = Tyler Steinkamp
+Address = 42 Reindeer St, Malaysia 4887965
+DOB = 23-07-1998
+Phone Number = 123-5373
+Course = IB
+CGPA = 3.11123
+
+Student Id = 95
+Name = William Brooke
+Address = 65 Johnson St, Malaysia 4345654
+DOB = 15-07-1988
+Phone Number = 789-2344
+Course = CS
+CGPA = 3.6677
+
+Student Id = 101
+Name = Steve Alexander Goh 
+Address = 23 Hennessey St, Malaysia 434664
+DOB = 30-06-1965
+Phone Number = 668-2342
+Course = CN
+CGPA = 3.6643
+
+Student Id = 109
+Name = Lauriette Stevenson
+Address = 78 Kindley St, Malaysia 423462
+DOB = 31-07-2000
+Phone Number = 239-4321
+Course = CN
+CGPA = 3.9004
+
+Student Id = 11
+Name = Lim Peng Kang
+Address = 187 Stunnington St, Malaysia 35500
+DOB = 11-03-2004
+Phone Number = 345-4546
+Course = CN
+CGPA = 3.57
+
+Student Id = 24
+Name = Stanley Robertson
+Address = 5 Railmen St, Malaysia 323213
+DOB = 19-04-1989
+Phone Number = 677-2321
+Course = CN
+CGPA = 3.7784
+
+Student Id = 67
+Name = Martin Junior
+Address = 52 Tchaikovsky St, Malaysia 244523
+DOB = 10-10-1994
+Phone Number = 213-4565
+Course = CS
+CGPA = 3.4357
